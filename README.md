@@ -59,7 +59,7 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [Ricochet](https://ricochet.im/) - completely anonymous and potentially metadata-free chat **Discontinued!**
 * [Ricochet Refresh](https://github.com/blueprint-freespeech/ricochet-refresh) - new updated version of Ricochet
 * [Librem](https://librem.one) - Librem One is a growing bundle of ethical services.
-* [Jami](https://jami.net/) - Distributed p2p communication(text, voice and video) free and open-source software.
+* [Jami](https://jami.net/) - Free, open-source software for distributed p2p communication (text, voice, and video).
 
 ### Databases
 * [BigchainDB](https://www.bigchaindb.com/) - a scalable database that layers blockchain technology over decentralized data.
